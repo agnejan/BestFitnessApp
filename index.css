@@ -385,7 +385,7 @@ a:hover {
     margin-top: -5px;
 }
 
-.dark-mode body {
+.dark-mode {
     box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, .814);
    }  /* why does not darken? */
 
